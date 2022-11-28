@@ -38,7 +38,7 @@ print(age_set)
     1. starts from 0
     2. Ends = length of Linear DS - 1
         Ex. below salaries => length=5 
-            Ends = 5-1 = 4 
+            Ends = 6-1 = 5
     3. Indexing helps to get/search a value from DS in one step.
         a. Indexing also helps to remove/delete data from DS in once step.
         b. Indexing also helps to update data from DS in once step.

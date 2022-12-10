@@ -1,9 +1,6 @@
 """
     DICT: Collection of key-value pair.
     Unique key leni padti hai
-
-
-
 """
 
 # empty dict
